@@ -1,6 +1,6 @@
 #include "Neuron.h"
 
-Neuron::Neuron(std::vector<int> weights, int bias)
+Neuron::Neuron(std::vector<int> weights, const int bias)
 {
 	this->weights = weights;
 	this->bias = bias;

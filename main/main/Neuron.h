@@ -11,7 +11,7 @@ private:
 	int bias;
 
 public:
-	Neuron(std::vector<int> weights, int bias);
+	Neuron(std::vector<int> weights, const int bias);
 	~Neuron();
 
 	float sigmoid(float x);
