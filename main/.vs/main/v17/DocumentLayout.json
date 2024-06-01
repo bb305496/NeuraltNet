@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\NeuraltNetwork\\main\\",
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11DF3F8C-E793-4ABC-A67D-9118B29380FC}|main\\main.vcxproj|C:\\Users\\Bartek\\Desktop\\NeuraltNetwork\\main\\main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{11DF3F8C-E793-4ABC-A67D-9118B29380FC}|main\\main.vcxproj|C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11DF3F8C-E793-4ABC-A67D-9118B29380FC}|main\\main.vcxproj|solutionrelative:main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DF3F8C-E793-4ABC-A67D-9118B29380FC}|main\\main.vcxproj|C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\Neuron.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11DF3F8C-E793-4ABC-A67D-9118B29380FC}|main\\main.vcxproj|solutionrelative:main\\Neuron.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DF3F8C-E793-4ABC-A67D-9118B29380FC}|main\\main.vcxproj|C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11DF3F8C-E793-4ABC-A67D-9118B29380FC}|main\\main.vcxproj|solutionrelative:main\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DF3F8C-E793-4ABC-A67D-9118B29380FC}|main\\main.vcxproj|C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11DF3F8C-E793-4ABC-A67D-9118B29380FC}|main\\main.vcxproj|solutionrelative:main\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DF3F8C-E793-4ABC-A67D-9118B29380FC}|main\\main.vcxproj|C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\Neuron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11DF3F8C-E793-4ABC-A67D-9118B29380FC}|main\\main.vcxproj|solutionrelative:main\\Neuron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +42,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Functions.cpp",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\Functions.cpp",
+              "RelativeDocumentMoniker": "main\\Functions.cpp",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\Functions.cpp",
+              "RelativeToolTip": "main\\Functions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T18:45:42.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Functions.h",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\Functions.h",
+              "RelativeDocumentMoniker": "main\\Functions.h",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\Functions.h",
+              "RelativeToolTip": "main\\Functions.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-01T18:45:36.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Neuron.cpp",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\Neuron.cpp",
+              "RelativeDocumentMoniker": "main\\Neuron.cpp",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\Neuron.cpp",
+              "RelativeToolTip": "main\\Neuron.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T18:06:40.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Neuron.h",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\Neuron.h",
+              "RelativeDocumentMoniker": "main\\Neuron.h",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\Neuron.h",
+              "RelativeToolTip": "main\\Neuron.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-01T18:06:16.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\NeuraltNetwork\\main\\main\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\main.cpp",
               "RelativeDocumentMoniker": "main\\main.cpp",
-              "ToolTip": "C:\\Users\\Bartek\\Desktop\\NeuraltNetwork\\main\\main\\main.cpp",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\Git\\NeuraltNetwork\\main\\main\\main.cpp",
               "RelativeToolTip": "main\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-01T12:24:05.585Z",
               "EditorCaption": ""

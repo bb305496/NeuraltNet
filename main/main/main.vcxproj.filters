@@ -13,10 +13,30 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Pliki źródłowe\NeuralNet">
+      <UniqueIdentifier>{da4242d9-4acb-48f3-aa05-bedcb2c261e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Functions">
+      <UniqueIdentifier>{aff343cd-bd08-429c-a5c8-bba1ec05dc3a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
+    <ClCompile Include="Neuron.cpp">
+      <Filter>Pliki źródłowe\NeuralNet</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions.cpp">
+      <Filter>Functions</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Neuron.h">
+      <Filter>Pliki źródłowe\NeuralNet</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>Functions</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
