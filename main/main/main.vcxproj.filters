@@ -30,6 +30,9 @@
     <ClCompile Include="Functions.cpp">
       <Filter>Functions</Filter>
     </ClCompile>
+    <ClCompile Include="NeuralNet.cpp">
+      <Filter>Pliki źródłowe\NeuralNet</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Neuron.h">
@@ -37,6 +40,9 @@
     </ClInclude>
     <ClInclude Include="Functions.h">
       <Filter>Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="NeuralNet.h">
+      <Filter>Pliki źródłowe\NeuralNet</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

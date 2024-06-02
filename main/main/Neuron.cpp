@@ -16,7 +16,7 @@ float Neuron::sigmoid(float x)
 	return 1 / (1 + std::exp(-x));
 }
 
-float Neuron::feedForward(std::vector<int> input)
+float Neuron::feedForward(std::vector<float> input)
 {
 	float total = dotProduct(this->weights, input) + this->bias;
 	return sigmoid(total);

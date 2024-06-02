@@ -1,6 +1,6 @@
 #include "Functions.h"
 
-float dotProduct(std::vector<int> weight, std::vector<int> input)
+float dotProduct(std::vector<int> weight, std::vector<float> input)
 {
 	float result = 0.0f;
 

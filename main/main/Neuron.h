@@ -15,7 +15,7 @@ public:
 	~Neuron();
 
 	float sigmoid(float x);
-	float feedForward(std::vector<int> input);
+	float feedForward(std::vector<float> input);
 
 };
 

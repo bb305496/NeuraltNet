@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 #include "Neuron.h"
+#include "NeuralNet.h"
 
 int main()
 {
@@ -7,8 +8,11 @@ int main()
 	const int bias = 4;
 	Neuron n(weights, bias);
 
-	std::vector<int> x = { 2,3 };
+	std::vector<float> x = { 2,3 };
 
-	std::cout << n.feedForward(x);
+	std::cout << n.feedForward(x) << "\n";
+
+	NeuralNet network;
+	std::cout << network.feedForward(x);
 }
 
